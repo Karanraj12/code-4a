@@ -1,0 +1,26 @@
+.header1{background-image: url(bg3.jpg);width: 100%; height: 600px; background-size: cover; background-position: center; min-height: 100vh;position: relative;}
+.logo{padding-left: 30px;}
+ul{list-style: none; float: left;text-align: center;padding-left: 150px;}
+li{list-style: none;display:inline; padding-right: 30px; padding-top: 10px;; text-align: center; text-decoration: none;}
+.div3 ul{list-style-type: none; float: right; padding-right: 20px;}
+.div3 li{padding-bottom: 10px;}
+.header2 h1{font-size: 60px; text-align: center; padding-top: 100px;color: white;}
+.header2 p{font-size: 20px; text-align: center; padding-bottom: 20px;color: white;}
+.banner{width: 100%; height: 600px; background-size: cover;}
+/*banner3*/
+.img1{float: right; padding-top: 125px; padding-bottom: 125px; width: 500px; height: 480px;padding-left:120px; padding-right: 120px;}
+.para1 h1{padding-left: 80px; padding-top: 280px; font-size: 50px;}
+.para1 p{padding-left: 120px; font-size: 20px;}
+/*banner3*/
+.img2{padding-left: 80px; width:600px; height:650px; padding-top: 100px;padding-right: 100px;padding-bottom: 120px;}
+.para2 h2{text-align: right; font-size: 40px; padding-right: 170px;}
+.para2 p{text-align: right; font-size: 20px;}
+/*banner4*/
+.img3{float: right;padding: 125px;}
+.para3 h3{padding-left: 100px; padding-top: 200px; font-size: 40px;}
+.para3 p{padding-left: 100px; font-size: 20px;}
+.para4 P{text-align: center; padding-top: 400px;font-size: 35px; padding-bottom: 200px;padding-right: 150px;padding-left: 150px;}
+/*banner6*/
+.img4{padding: 125px;}
+.para5 h4{text-align: right; padding-right: 100px;font-size: 40px;}
+.para5 p{text-align: right;font-size: 20px;padding-right: 60px;}
